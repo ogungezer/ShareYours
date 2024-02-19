@@ -5,5 +5,6 @@ Libraries, frameworks and services used in the project:  <br>
 💠Navigation  <br>
 💠Coil  <br> 
 💠Jetpack Compose  <br>
+💠Material3  <br>
 
 [See the application](https://youtu.be/iK-514K801E?si=U-HUrsMubot4vT2h)
